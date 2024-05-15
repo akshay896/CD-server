@@ -1,0 +1,25 @@
+{
+  "allDetails": [
+    {
+      "empId": "123",
+      "empName": "Akshay",
+      "empEmail": "akshay@gmail.com",
+      "empStatus": "Active",
+      "id": 1
+    },
+    {
+      "empId": "234",
+      "empName": "Aswin",
+      "empEmail": "aswin@gmail.com",
+      "empStatus": "Active",
+      "id": 2
+    },
+    {
+      "empId": "342",
+      "empName": "Arun",
+      "empEmail": "arun345@gmail.com",
+      "empStatus": "Inactive",
+      "id": 3
+    }
+  ]
+}
